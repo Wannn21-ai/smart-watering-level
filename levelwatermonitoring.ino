@@ -10,10 +10,10 @@
 #define MAX_DEVICES 4
 
 // ===== KONFIGURASI =====
-const char* WIFI_SSID = "A";
-const char* WIFI_PASSWORD = "";
-const char* BOT_TOKEN = "8923539699:AAFN7iQqs7Lcw4I7RrXAoLOc2SmmeThChhA";
-const String CHAT_ID_DIIZINKAN = "7511940466";
+const char* WIFI_SSID = "YOUR_WIFI_SSID";
+const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
+const char* BOT_TOKEN = "YOUR_BOT_TOKEN";
+const String CHAT_ID_DIIZINKAN = "YOUR_TELEGRAM_CHAT_ID";
 // =======================
 
 const byte PIN_SEDANG = 32;
